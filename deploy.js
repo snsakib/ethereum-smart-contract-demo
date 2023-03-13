@@ -4,7 +4,7 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile');
 
 provider = new HDWalletProvider(
-  "snake ball position avocado insect smart push spare lounge silver viable bridge",
+  "REPLACE_WITH_YOUR_MNEMONIC",
   "https://goerli.infura.io/v3/f9ebd19783694ccbbbfa9d9fb8735e1e"
 );
 
